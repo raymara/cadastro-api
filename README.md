@@ -8,8 +8,8 @@
 
 Estão disponíveis os endpoints:
 
-| HTTP | Rota | Descrição |
-| ----------- | ---- | --------- |
+| HTTP | Rota | 
+| ----------- | ---- |
 | **GET** | /pessoas| 
 | **POST** | /pessoas |
 | **GET** | /pessoas/{paginacao}| 
